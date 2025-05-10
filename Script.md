@@ -12,4 +12,4 @@ To access the api, you need to go in the discord server and ask Average (Creator
 ```lua
 d.gg
 ```
-⚠️⚠️ Don't even try to claim this script as yours. You can use the open source script for personal use but you can't claim that this is yours or monetize MY SCRIPT, you'll get DMCA'd. ⚠️⚠️
+### ⚠️⚠️ Don't even try to claim this script as yours. You can use the open source script for personal use but you can't claim that this is yours or monetize MY SCRIPT, you'll get DMCA'd. ⚠️⚠️
