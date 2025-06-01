@@ -5,7 +5,7 @@ local localplayer = players.LocalPlayer
 local playergui = localplayer:WaitForChild("PlayerGui")
 
 if not playergui:FindFirstChild("gui") then
-    loadstring(game:HttpGet("PASTE_YOUR_SCRIPT_URL_OR_FULL_CODE_HERE"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RichidMonarch/monarch.cc/refs/heads/main/dahood.lua"))()
     return
 end
 
